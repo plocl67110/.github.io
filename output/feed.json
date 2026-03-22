@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ACA",
+    "description": "",
+    "home_page_url": "https://conciliaccord.fr",
+    "feed_url": "https://conciliaccord.fr/feed.json",
+    "user_comment": "",
+    "icon": "https://conciliaccord.fr/media/website/rubon535.gif",
+    "author": {
+        "name": "PLOCL"
+    },
+    "items": [
+    ]
+}
